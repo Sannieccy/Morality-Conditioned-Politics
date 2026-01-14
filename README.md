@@ -1,6 +1,6 @@
 # Morality-Conditioned-Politics
 
-This repository contains code and data for reproducing experiments in our [arXiv preprint]().
+This repository contains code and data for reproducing experiments in our [arXiv preprint](http://arxiv.org/abs/2601.08634).
 
 ## Repository Structure
 
